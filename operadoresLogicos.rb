@@ -13,3 +13,6 @@ end
 if !(v1 < v2) &&  !(v3 < v4)  then
     puts  "codição aceita nos dois casos" 
 end
+
+
+
